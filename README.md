@@ -1,3 +1,8 @@
+# Frontend APP HOMEWORK
+Para ver la el frontEnd creado en Nuxt descarga el siguiente repositorio para poder consumir la Api
+
+https://github.com/JuanDriko/CrudNuxt
+
 # Requerimientos necesarios
 
 Python 3.12.1
